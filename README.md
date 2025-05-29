@@ -58,6 +58,7 @@ Open the `demand_forcasting.ipynb` notebook and run the cells in order to reprod
 ## Authors
 
 Enge NOUADJE
+
 Stive TEDOM 
 
 Project completed during a summer break of the third year of ESILV engineering School in Data & IA major.
