@@ -82,7 +82,7 @@ The Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) p
 
 ![Sales forcast](Visualizations/Sales%20forcast.png)
 
-This graph displays the ARIMA model's predictions overlaid with the actual historical sales data. The forecast line shows the expected future demand trends, allowing businesses to anticipate sales volumes and plan inventory accordingly.
+This graph displays the ARIMA model's predictions overlaid with the actual historical sales data. The forecast line shows the expected future demand trends, allowing businesses to anticipate sales volumes and plan inventory accordingly. We can see that the ARIMA mdoel struggle to predict sales, indeed the data isn't good enough to allow sales forcast.
 
 **Residuals of ARIMA Model**
 
